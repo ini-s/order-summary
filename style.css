@@ -39,7 +39,7 @@ margin: 0 30px 30px 30px;
 padding: 0 20px 0
 }
 
-.plan{margin: 0 60px 0 15px;
+.plan{margin-right:60px;
 line-height: 1.5;
 font-weight: 700;}
 .price{font-weight: 500;
