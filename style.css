@@ -1,5 +1,5 @@
 
-body{background-image: url(pattern-background-desktop.svg);
+body{background-image: url(/pattern-background-desktop.svg);
 background-repeat: no-repeat;
 background-color:hsl(225, 100%, 94%);
 font-family: 'Red Hat Display', sans-serif;
@@ -73,7 +73,7 @@ font-weight: 700;}
 .cancel:hover{color:black}
 
 @media screen and  (max-width:700px){
-  body{background-image: url(pattern-background-mobile.svg);}
+  body{background-image: url(/pattern-background-mobile.svg);}
   .container{width:70%;}
   .plan{margin:0 30px 0 0}
 
